@@ -11,3 +11,8 @@ This repository contains lab assignments completed for IT1114.
 * **File:** `Lab2.py`
 * **Description:** Determines hourly rates and calculates total parking charges based on minutes parked.
 * **Key Concepts:** Conditional logic (`if`, `elif`, `else`), decision-making structures.
+
+## Lab 3: KSU CCSE Hackathon Food Cost Calculator
+* **File:** `Lab3.py`
+* **Description:** Calculates whole pizzas needed, base food costs, bulk discounts, delivery fees, and total amount due.
+* **Key Concepts:** Module importing (`math.ceil`), conditional logic (`if`/`else`), multi-step arithmetic modeling.
